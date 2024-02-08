@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Machine learning enthusiast
+Data Scientist and Artificial Intelligence enthusiast
 
 Personal side proyects:
 
