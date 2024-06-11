@@ -11,3 +11,5 @@ Personal side proyects:
 - ⚽ futstats: Under construction 🚧
 - 🎙️ wAIld proyect: Under construction 🚧
 
+Other websites:
+- [🤗 Hugging Face](https://pypi.org/project/enigmachine/)
