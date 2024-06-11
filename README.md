@@ -12,4 +12,4 @@ Personal side proyects:
 - 🎙️ wAIld proyect: Under construction 🚧
 
 Other websites:
-- [🤗 Hugging Face](https://pypi.org/project/enigmachine/)
+- [🤗 Hugging Face](https://huggingface.co/Fer14)
