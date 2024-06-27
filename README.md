@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Static Badge](https://img.shields.io/badge/focused-working-red?style=plastic&labelColor=black&color=white)
+![Static Badge](https://img.shields.io/badge/focused-learning-red?style=plastic&labelColor=white&color=green)
 
 Data Scientist and Artificial Intelligence enthusiast
 
