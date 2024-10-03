@@ -11,7 +11,7 @@ I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for **bu
 
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/Fer14)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fcsancho14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/fernando-cortes-sancho))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/fernando-cortes-sancho)
 
 <a href="https://www.buymeacoffee.com/Fer14" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
