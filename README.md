@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Currently-Working-red?style=for-the-badge&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge&labelColor=white&color=green)
 
-I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for **building side projects** and exploring machine learning models.
+I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for [**building side projects** ](fer14.github.io/) and exploring machine learning models.
 
 ---
 
@@ -12,6 +12,7 @@ I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for **bu
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/Fer14)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fcsancho14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/fernando-cortes-sancho)
+
 
 If you like what I do: 
 
