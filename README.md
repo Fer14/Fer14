@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Currently-Working-red?style=for-the-badge&labelColor=black&color=green)
 ![Static Badge](https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge&labelColor=white&color=green)
 
-I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for [**building side projects** ](fer14.github.io/) and exploring machine learning models.
+I’m a **Data Scientist** and **AI Enthusiast**, driven by the passion for [**building side projects** ](https://fer14.github.io/) and exploring machine learning models.
 
 ---
 
